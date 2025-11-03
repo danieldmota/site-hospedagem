@@ -7,7 +7,6 @@ Este projeto foi criado no início dos meus estudos em front-end para praticar *
 
 ## 🚀 Demonstração
 
-🔗 [Acesse o site online](https://seudominio.com)
 📸 *Veja abaixo uma prévia do design:*
 
 ![Preview do site](assets/alfatech.png)
